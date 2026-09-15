@@ -49,7 +49,7 @@
   <grid_matrix_inverse>0</grid_matrix_inverse>
   <transmit_code_11_check_digit>0</transmit_code_11_check_digit>
   <han_xin_inverse>0</han_xin_inverse>
-  <associated_app>[net.ziizii.app, io.ziizii.oe]</associated_app>
+  <associated_app>[net.ziizii.app, net.ziizii.deliverycheckin, io.ziizii.oe]</associated_app>
   <decode_upc_ean_jan_supplemental_5>1</decode_upc_ean_jan_supplemental_5>
   <composite_cc_a_b_ucc_link_mode>0</composite_cc_a_b_ucc_link_mode>
   <ean_8_jan_8_extend>0</ean_8_jan_8_extend>
